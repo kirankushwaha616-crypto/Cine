@@ -1,0 +1,6 @@
+{
+  "name": "CineCut",
+  "description": "Professional on-device Android video editor with trimming, splitting, speed controls, text overlays, audio mixing, and high quality MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

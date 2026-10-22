@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CineCut</string>
+    <string name="action_new_project">New Project</string>
+    <string name="action_demo_project">Try Demo Clip</string>
+    <string name="action_export">Export</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_trim">Trim</string>
+    <string name="action_split">Split</string>
+    <string name="action_crop">Ratio</string>
+    <string name="action_rotate">Rotate</string>
+    <string name="action_speed">Speed</string>
+    <string name="action_text">Text</string>
+    <string name="action_audio">Audio</string>
+    <string name="action_volume">Volume</string>
+    <string name="action_adjust">Adjust</string>
+    <string name="action_delete">Delete</string>
+    <string name="tab_recent">Projects</string>
+    <string name="tab_drafts">Drafts</string>
+    <string name="tab_exports">Exports</string>
+    <string name="settings_title">Settings</string>
+    <string name="empty_projects_title">No projects yet</string>
+    <string name="empty_projects_subtitle">Start editing by creating a new project with your videos and photos</string>
+    <string name="empty_exports_title">No exported videos</string>
+    <string name="empty_exports_subtitle">Finished videos exported from CineCut will appear here</string>
+</resources>

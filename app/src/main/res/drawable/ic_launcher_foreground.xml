@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Slate / Film Frame Background -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M32,28 h44 c4.4,0 8,3.6 8,8 v36 c0,4.4 -3.6,8 -8,8 H32 c-4.4,0 -8,-3.6 -8,-8 V36 c0,-4.4 3.6,-8 8,-8 z" />
+    <!-- Film Perforations -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,34 h5 v6 h-5 z M29,45 h5 v6 h-5 z M29,56 h5 v6 h-5 z M29,67 h5 v6 h-5 z M74,34 h5 v6 h-5 z M74,45 h5 v6 h-5 z M74,56 h5 v6 h-5 z M74,67 h5 v6 h-5 z" />
+    <!-- Center Play/Cut Shape -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M48,42 L66,54 L48,66 Z" />
+</vector>
